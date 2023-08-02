@@ -1,0 +1,60 @@
+@media only screen and (min-width: 375px)  { 
+body{
+    background-color:  hsl(212, 45%, 89%);
+}
+div{
+    border: 1px none solid;
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    margin-top: 50%;
+    margin-left: 40%;
+}
+#first{
+    font-weight: 700;
+    font-size: 12px;
+    top: 10px;
+}
+#second{
+    margin: 10px;
+    font-weight: 400;
+    font-size: 15px;
+    color: lightgray;
+}
+#img{
+    border-radius: 10px;
+    margin-top: 10px;
+} 
+}
+@media only screen and (max-width: 1440px)  { 
+body{
+    background-color:  hsl(212, 45%, 89%);
+}
+div{
+    border: 1px none solid;
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 40%;
+}
+#first{
+    font-weight: 700;
+    font-size: 15px;
+    top: 10px;
+}
+#second{
+    margin: 10px;
+    font-weight: 400;
+    font-size: 15px;
+    color: lightgray;
+}
+#img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+}
